@@ -1,0 +1,51 @@
+[Eagle]
+Version="08 03 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Batteries.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Clocks.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Coils.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Fuses.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-GPS.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Hardware.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Amplifiers.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Comms.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Conversion.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Logic.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Memory.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Microcontroller.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Power.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-IC-Special-Function.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Jumpers.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-PowerSymbols.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Retired.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/SparkFun-Switches.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/User-Submitted.lbr"
+UsedLibrary="madHaddr.lbr"
+UsedLibrary="C:/Users/Rob/Desktop/SOAR/ELEC/MAD-HADDR/madHaddr.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1599 859"
+State=1
+Number=0
+
+[Desktop]
+Screen="1600 900"
+Window="Win_1"
